@@ -1,19 +1,19 @@
 title: Kairui's Personal Website
-profile_img: /assets/img/profile.webp
+profile_img: /assets/img/photo.webp
 icon_img: /assets/img/icon.webp
 
 name: "Kairui Liang"
-job: "undergraduate student from dalhousie university"
+job: "Undergraduate from Dalhousie University"
 
-phone_number: 012-345-6789
-address: City, Country
-email: email@example.com
+phone_number: +86 19936078528
+address: Chongqing, China
+email: kr495028@dal.ca
 linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
+github_username: coollkr
+#instagram_username: instagram
+#twitter_username: twitter
+#facebook_username: facebook
+#youtube_username: youtube
 blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
@@ -29,3 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+
+
+  
