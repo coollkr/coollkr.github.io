@@ -1,22 +1,10 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Dalhousie university
+    role: Marker in CSCI3110 Algorithms I
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Maintained effective communication with students.
+      - Thoroughly reviewed lecture content and graded assignment.
+    date: 2023.9 - 2024.5
