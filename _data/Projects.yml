@@ -2,20 +2,20 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: A team manage application like Trello (A+ in CSCI3130 Software Engineering)
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Collaborated with team members to develop a project management application similar to Trello.
+      - Utilized Agile methodology for iterative development and collaboration.
+    date: 2022.05 - 2022.08
+    
+  - title: "A game group project (A+ in CSCI4168 game design) ([https://github.com/coollkr/GameProject](https://github.com/coollkr/GameProject))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Developed a puzzle games using Unity as part of a group project.
+      - Implemented 3D models using Blender for character design, environments, and objects.
+    date: 2023.09 - 2023.12
+    
+  - title: "Honor thesis project dynamic range mode(supervised by Dr.Meng He)([https://github.com/coollkr/RangeModeQueries](https://github.com/coollkr/RangeModeQueries))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Conducting research on dynamic range mode queries.
+      - Carried out experimental studies to evaluate the performance of the algorithms, analyzing factors such as time complexity and memory usage.
+    date: 2024.01 - now

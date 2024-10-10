@@ -2,6 +2,7 @@ subject: Statement
 listing-order: 1
 icon: "/assets/img/globe.svg"
 contents:
-  - title: "Dutch ('*Native*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "German: <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
-  - title: "English: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
+  
+  - description: "
+      After receiving the degree Bachelor of Computer Science with First-class Honours(GPA > 3.7). I want to enhance my knowledge and research skills by pursuing the Master/PhD to explore emerging technologies and advanced methods in various areas such as AI, systems, theory and interdisciplinary. On top of that, my biggest dream is to apply my knowledge to improve our daily life, such as transportation like autonomous driving, biomedical treatment, architecture design, health management, and intelligent manufacturing. These fields hold immense potential for revolutionizing industry, agriculture and services, and I am eager to contribute to their advancement.
+    "

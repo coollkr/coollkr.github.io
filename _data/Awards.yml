@@ -2,12 +2,12 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Sexton scholar
+    description: GPA > 3.85
+    date: 2020 Fall, winter; 2021 winter; 2022 Fall
+  - title: Dean's list
+    description: GPA > 3.7
+    date: 2022 winter
+  - title: In-course scholarship
+    description: Completed 30 credit hours over two terms and achieved a minimum 3.70 SGPA
+    date: 2021 and 2022
